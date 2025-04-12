@@ -1147,7 +1147,7 @@
         "kind": 5,
         "importPath": "MyBlog.settings",
         "description": "MyBlog.settings",
-        "peekOfCode": "WSGI_APPLICATION = 'MyBlog.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql\",\n        \"NAME\": \"django_sample\",\n        \"USER\": \"postgres\",\n        \"PASSWORD\": \"mauricio1409\",\n        \"HOST\": \"127.0.0.1\",",
+        "peekOfCode": "WSGI_APPLICATION = 'MyBlog.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql\",\n        \"NAME\": \"django_sample\",\n        \"USER\": \"postgres\",\n        \"PASSWORD\": \"123456\",\n        \"HOST\": \"127.0.0.1\",",
         "detail": "MyBlog.settings",
         "documentation": {}
     },
@@ -1156,7 +1156,7 @@
         "kind": 5,
         "importPath": "MyBlog.settings",
         "description": "MyBlog.settings",
-        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql\",\n        \"NAME\": \"django_sample\",\n        \"USER\": \"postgres\",\n        \"PASSWORD\": \"mauricio1409\",\n        \"HOST\": \"127.0.0.1\",\n        \"PORT\": \"5432\",\n    }\n}",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.postgresql\",\n        \"NAME\": \"django_sample\",\n        \"USER\": \"postgres\",\n        \"PASSWORD\": \"123456\",\n        \"HOST\": \"127.0.0.1\",\n        \"PORT\": \"5432\",\n    }\n}",
         "detail": "MyBlog.settings",
         "documentation": {}
     },
